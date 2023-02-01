@@ -1,7 +1,7 @@
-# Guess My Number
+# Guess My Number Project
 
 
-Project from Jonas Schmedtmann's The Complete Javascript Course 2023.
+JS DOM Project from Jonas Schmedtmann's The Complete Javascript Course 2023.
 
 
 
