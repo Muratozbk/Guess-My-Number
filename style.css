@@ -43,6 +43,7 @@ main {
   main {
     align-items: flex-start;
     margin-top: 15rem;
+    height: 50%;
   }
 }
 
